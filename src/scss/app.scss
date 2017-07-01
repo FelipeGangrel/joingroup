@@ -206,7 +206,6 @@ section#start{
     height: $hexagon_big;
   }
 
-
   @include breakpoint(xs){
     div.logo{
       width: 160px;
@@ -247,7 +246,8 @@ section#start{
       }
     }
     
-  }
+  } 
+
 }
 
 section#banners{
